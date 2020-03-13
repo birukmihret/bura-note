@@ -1,3 +1,13 @@
 1. git remote -v check which website/github repository is git connceted
 
-2.
+2. <git status> to see the status of new files and chaged files
+
+3. <git add .> to add to git edited or new file to be comment
+
+4. <git commit -m "it is my first comment">  it will add comment of what the file will doo.
+
+5 <git remote add origin https://github.com/birukmihret/bura-note.git> to set the github repository link
+
+6. <git push -u -f origin master> to push files to github repo
+
+7. <git pull origin master> to download files from github repository
